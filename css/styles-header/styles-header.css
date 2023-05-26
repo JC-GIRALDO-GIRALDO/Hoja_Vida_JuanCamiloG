@@ -1,6 +1,5 @@
 header {
-    background-color: darkblue;
-    display: grid;
-    grid-template-rows: 1fr 1fr 2fr;
+  background-color: rgb(44, 66, 105);
+  display: grid;
+  grid-template-rows: 320px 220px 650px auto;
 }
-

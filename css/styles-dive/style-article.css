@@ -1,16 +1,67 @@
 #nombre {
-    background-color: rgb(60, 119, 119);
-    
+  background-color: rgb(255, 255, 255);
+}
+
+#nombre > h1 {
+  text-align: center;
+}
+
+#text1 {
+  font-size: 60px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: rgb(61, 95, 147);
+}
+#text2 {
+  font-size: 80px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
 #perfil {
-    background-color: rgb(89, 119, 60);
+  background-color: rgb(255, 255, 255);
+}
+
+#perfil > p {
+  text-align: justify;
+  width: 80%;
+  margin-left: 80px;
+  font-size: 18px;
+}
+
+h3 {
+  background-color: dimgray;
+  border-radius: 60px;
+  width: 750px;
+  height: 35px;
+  margin: auto;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+h4 {
+  font-size: 20px;
+  background-color: darkgray;
+  width: 40%;
+  color: white;
+  margin-left: 90px;
 }
 
 #estudios {
-    background-color: rgb(119, 115, 60);
+  background-color: rgb(255, 255, 255);
+}
+
+ol {
+  margin-left: 90px;
+  font-size: 18px;
+  margin-bottom: 20px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+ol > li {
+  margin-top: 10px;
+  color: rgb(0, 0, 0);
 }
 
 #experiencia {
-    background-color: rgb(119, 87, 60);
+  background-color: rgb(255, 255, 255);
 }

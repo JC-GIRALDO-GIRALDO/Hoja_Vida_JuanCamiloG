@@ -1,5 +1,5 @@
 dive {
-    background-color:darkblue;
-    display: grid;
-    grid-template-rows: 1fr
+  background-color: rgba(170, 77, 77, 0);
+  display: grid;
+  grid-template-rows: 1fr;
 }
